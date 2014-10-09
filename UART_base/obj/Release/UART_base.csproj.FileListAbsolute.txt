@@ -1,0 +1,9 @@
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\UART_base\UART_base\bin\Release\UART_base.exe.config
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\UART_base\UART_base\bin\Release\UART_base.exe
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\UART_base\UART_base\bin\Release\UART_base.pdb
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\UART_base\UART_base\obj\Release\UART_base.Form1.resources
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\UART_base\UART_base\obj\Release\UART_base.Properties.Resources.resources
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\UART_base\UART_base\obj\Release\UART_base.csproj.GenerateResource.Cache
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\UART_base\UART_base\obj\Release\UART_base.exe
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\UART_base\UART_base\obj\Release\UART_base.pdb
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\UART_base\UART_base\obj\Release\UART_base.csprojResolveAssemblyReference.cache
